@@ -11,16 +11,16 @@ Les différents résultats sont repartis tel que :
     - Distance Wasserstein
 
 - Génération synthétique --> ./Synthetic_Data_Generation/synthetic_data.ipynb
- Résultats :
-  - Kolmogorov-Smirnov
-  - WasserStein
-  - Cramèr's V
-  - Evaluation sur un modèle de classification (AUC Score)
-  - Novelty Detection
-  - Anomaly Detection
-  - PCA
-  - Comparaison statistiques des données réelles et synthétiques (Mean,Median,Skewness,Kurtosis)
-  - Comparaison des matrices de corrélations ( RMSE, Frobenius Norm)
-  - Comparaison visuelles des matrices correlations (heatmap)
+     Résultats :
+      - Kolmogorov-Smirnov
+      - WasserStein
+      - Cramèr's V
+      - Evaluation sur un modèle de classification (AUC Score)
+      - Novelty Detection
+      - Anomaly Detection
+      - PCA
+      - Comparaison statistiques des données réelles et synthétiques (Mean,Median,Skewness,Kurtosis)
+      - Comparaison des matrices de corrélations ( RMSE, Frobenius Norm)
+      - Comparaison visuelles des matrices correlations (heatmap)
 - 
     

@@ -7,7 +7,7 @@ Les différents résultats sont repartis tel que :
 - Imputation --> ./Impute/impute.ipynb  
 
     Résultats :
-    - RMSEDistance
-    - Wasserstein
+    - RMSE
+    - Distance Wasserstein
 
     

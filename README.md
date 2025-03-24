@@ -4,10 +4,10 @@ Ce github a pour objectif de repertorier l'ensemble des résultats relatif au pr
 
 Les différents résultats sont repartis tel que :
 
-Imputation --> ./Impute/impute.ipynb  
+- Imputation --> ./Impute/impute.ipynb  
 
-Résultats :
-- RMSEDistance
-- Wasserstein
+    Résultats :
+    - RMSEDistance
+    - Wasserstein
 
     

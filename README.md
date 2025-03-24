@@ -35,5 +35,5 @@ Les différents résultats sont repartis tel que :
      - Self-Organizing Map
      - AgglomerativeClustering
      - BIRCH
-- Aucun résultats d'évaluations de clustering ne sont présenté pour l'instant
+- Aucun résultats d'évaluations de clustering ne sont présentés pour l'instant
     

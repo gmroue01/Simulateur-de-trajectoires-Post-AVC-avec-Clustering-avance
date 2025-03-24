@@ -11,7 +11,7 @@ Les différents résultats sont repartis tel que :
     - Distance Wasserstein
 
 - Génération synthétique --> ./Synthetic_Data_Generation/synthetic_data.ipynb
- Résultats :
+
   - Kolmogorov-Smirnov
   - WasserStein
   - Cramèr's V

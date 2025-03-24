@@ -6,7 +6,7 @@ Les différents résultats sont repartis tel que :
 
 - Imputation --> ./Impute/imputation.ipynb  
 
-    Résultats :
+    Résultats (à la dernière cellule) :
     - RMSE
     - Distance Wasserstein
 

@@ -10,4 +10,5 @@ Les différents résultats sont repartis tel que :
     - RMSE
     - Distance Wasserstein
 
+- Génération synthétique 
     

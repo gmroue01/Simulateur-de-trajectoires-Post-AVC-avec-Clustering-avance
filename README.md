@@ -22,5 +22,18 @@ Les différents résultats sont repartis tel que :
   - Comparaison statistiques des données réelles et synthétiques (Mean,Median,Skewness,Kurtosis)
   - Comparaison des matrices de corrélations ( RMSE, Frobenius Norm)
   - Comparaison visuelles des matrices correlations (heatmap)
-- Clustering --> ./Clustering/
+- Clustering --> ./Clustering/clustering.ipynb
+     - K-Means
+     - K-Prototype
+     - Fuzzy Means
+     - GPBOOST
+     - GaussianMixture
+     - DBSCAN
+     - HDBSCAN
+     - OPTICS
+     - Spectral Clustering
+     - Self-Organizing Map
+     - AgglomerativeClustering
+     - BIRCH
+  - Aucun résultats d'évaluations ne sont présenté pour l'instant
     

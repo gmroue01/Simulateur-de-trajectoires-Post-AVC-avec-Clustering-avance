@@ -22,5 +22,5 @@ Les différents résultats sont repartis tel que :
   - Comparaison statistiques des données réelles et synthétiques (Mean,Median,Skewness,Kurtosis)
   - Comparaison des matrices de corrélations ( RMSE, Frobenius Norm)
   - Comparaison visuelles des matrices correlations (heatmap)
-- 
+- Clustering --> ./Clustering/
     

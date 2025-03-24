@@ -10,5 +10,6 @@ Les différents résultats sont repartis tel que :
     - RMSE
     - Distance Wasserstein
 
-- Génération synthétique --> ./Ge
+- Génération synthétique --> ./Synthetic_Data_Generation/synthetic_data.ipynb
+- 
     
